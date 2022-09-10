@@ -274,6 +274,10 @@
     margin-bottom: 50px;
     font-size: 3vmin;
 }
+.blogs_blank{
+    height: 40vmin;
+    list-style: none;
+}
 
 /*----------------room--------------------*/
 .rooms_back{
